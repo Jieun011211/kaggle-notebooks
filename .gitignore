@@ -164,5 +164,5 @@ cython_debug/
 kaggle.json
 
 datasets/
-
+*.csv
 *.xlsx
